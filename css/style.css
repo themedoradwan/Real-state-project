@@ -40,6 +40,28 @@ i {
   }
   
 }
+@media (max-width: 991px) {
+  .dropdown-menu {
+    min-width: 90vw !important;
+    width: 90vw !important;
+    left: 5% !important;
+    transform: none !important;
+    border-radius: 1rem !important;
+    padding: 1rem !important;
+  }
+}
+
+
+
+@media (max-width: 991px) {
+  .dropdown-menu {
+    min-width: 90vw !important;
+    width: 90vw !important;
+    left: 5% !important;
+    transform: none !important;
+    padding: 1rem !important;
+  }
+}
 
 /***** End global-style Section *****/
 /*****  nav-bar Section *****/
